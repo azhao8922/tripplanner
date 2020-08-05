@@ -18,7 +18,7 @@ const state = {
 mapboxgl.accessToken = "pk.eyJ1IjoiYXpoYW84OTIyIiwiYSI6ImNrN3VwbXl4MzAweGYzbHFvcXBtc3d1bXQifQ.B8z0eJhl3J6PPe1nEv_pmw";
 
 const fullstackCoords = [-74.009, 40.705] // NY
-// const fullstackCoords = [-87.6320523, 41.8881084] // CHI
+// const fullstackCoords = [-87.6320523, 41.8881084] // CH
 
 const map = new mapboxgl.Map({
   container: "map",
